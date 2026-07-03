@@ -13,6 +13,7 @@ A Python-based trading bot for Binance Futures Testnet that supports MARKET and 
 - Input validation
 - Logging
 - Exception handling
+- Binance Futures Testnet/Demo Trading API integration
 
 ## Project Structure
 
